@@ -38,4 +38,17 @@ nav{
     font-size: 16px;
     border: none;
 }
+.banner-content{
+    text-align: center;
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: bold;
+}
+.banner{
+    margin: 250px 300px ;
+}
+header{
+    background-image: url('../Assets/Hero-bg.png');
+}
 
